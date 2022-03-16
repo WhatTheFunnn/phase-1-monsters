@@ -1,0 +1,68 @@
+.card {
+    text-align: center;
+    margin: auto;
+    width: 90%;
+    padding: 30px;
+    margin-bottom: 50px;
+
+    border-top: grey solid 2px;
+    border-right: grey solid 2px;
+    border-bottom: rgb(63, 63, 63) solid 2px;
+    border-left: rgb(63, 63, 63) solid 2px;
+    box-shadow: 1px 1px 1px #0a021b, 0px 0px 2px 1px #12898d;
+    background-color: black;
+  }
+
+  .monster-button {
+    background-color: black;
+    color: aquamarine;
+    text-shadow: 3px 1px purple;
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-left: 660px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+
+  form {
+    text-align: center;
+    height: 300PX;
+    width: 500px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+    background-color: #0a021b;
+  }
+
+  input {
+    width: 450px;
+    margin-left: 5px;
+  }
+
+  .subBtn {
+    position: relative;
+    top: -43px;
+    left: 410px;
+    
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: aquamarine;
+    text-shadow: 2px 2px purple;
+  }
+
+  p {
+      color: aquamarine;
+      text-shadow:3px 1px purple;
+      
+  }
+
+  html {
+    background-color: darkslateblue;
+  }
+  
